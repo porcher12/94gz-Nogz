@@ -1,0 +1,29 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+p{
+  color: darkolivegreen;
+}
+
+.note{
+  font-size: 120px;
+}
+#id-selector-demo{
+  color: darkkhaki;
+}
+li[value="4"] {
+  color: darkorange;
+  font-size: ;
+}
+*{
+  text-align: center;
+}
+h1{
+  font-size: 200px;
+}
+h2{
+  font-size: 180px;
+}
